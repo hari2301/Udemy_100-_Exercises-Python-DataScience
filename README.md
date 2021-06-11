@@ -2,12 +2,13 @@
 
 Improve your machine learning skills and solve over 100 exercises in python, numpy, pandas and scikit-learn!
 
-100+ Exercises - Python - Data Science - scikit-learn
+<u> 100+ Exercises - Python - Data Science - scikit-learn </u>
 
 Welcome to the course 100+ Exercises - Python - Data Science - scikit-learn where you can test your Python programming skills in machine learning, specifically in scikit-learn package.
 
 
-Topics you will find in the exercises:
+## Topics you will find in the exercises:
+
 
     preparing data to machine learning models
 
@@ -88,7 +89,7 @@ This is a great test for people who are learning machine learning and are lookin
 
 
 If you're wondering if it's worth taking a step towards Python, don't hesitate any longer and take the challenge today.
-What you’ll learn
+## What you’ll learn
 
     solve over 100 exercises in numpy, pandas and scikit-learn
     deal with real programming problems in data science
